@@ -16,4 +16,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
->>>>>>> 1f6860e (Adicionando o código base criado pelo flutter (com imagem do diretorio web e do diretorio windows sendo a imagem de uma fênix provisória, criada pelo gemini))
